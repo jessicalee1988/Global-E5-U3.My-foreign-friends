@@ -1,0 +1,8 @@
+{
+  "name": "Unit 3 – My foreign friends",
+  "description": "Review and practice web app for Vietnamese Grade 5 students learning English (English 5 – Global Success, Unit 3: My foreign friends).",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
